@@ -1,0 +1,101 @@
+* 
+{
+margin: 0%;
+padding: 0%;
+}
+
+header
+{
+    background-image: url(image\ back.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-size: 100% 100%;
+  background-attachment: fixed;
+  background: no-repeat;
+}
+ 
+.products{
+  
+  background-image: url(image\ back.jpg);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  text-align: center;
+}
+.nav-bar
+{
+  background: rgb(110, 112, 199);
+ 
+
+}
+.products-container{
+
+  background-image: url(image\ back.jpg);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+
+
+}
+.menu{
+font-size: 20px;
+float: right;
+ list-style: none;
+ margin: 20px;
+ color: rgb(223, 159, 198);
+ 
+border: 2px solid rgb(227, 238, 240) ;
+}
+
+.menu li {
+display: inline-block;
+margin: 10px 5px;
+}
+
+menu li a {
+
+text-decoration:none;
+color :rgb(228, 238, 240);
+padding:5px 10px;
+font-family: sans-serif;
+letter-spacing: 2px;
+border: 2px solid rgb(8, 90, 39) ;
+}
+
+.menu li a:hover{
+    background:#fff;
+    transition: .4s;
+    color:#000;
+}
+.HELLO{
+  position:relative ;
+text-align: center;
+font-family: sans-serif;
+color: rgb(31, 136, 110);
+top : 160px;
+
+}
+
+.HELLO h1{
+font-size: 42px;
+margin: 25px;
+}
+
+.btn{
+ font-size: 18px ;
+letter-spacing: 2px;
+margin: 5px;
+padding: 7px 10px;
+text-decoration: none;
+border: 2px solid #fff ;
+}
+
+.btn1{
+background: rgb(23, 221, 235);
+color: rgb(61, 49, 221);
+}
+.btn2{
+
+color: rgb(64, 230, 14);
+
+
+}
